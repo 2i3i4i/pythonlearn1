@@ -9,3 +9,5 @@ while True:
     else:
         print reply.upper()
 print 'bye'
+
+print "hello world!"
